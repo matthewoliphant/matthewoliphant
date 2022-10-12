@@ -21,6 +21,7 @@ footer a {
 footer p a:hover {
     font-size: 1.2em;
     text-decoration: underline;
+    color:#283618
 }
 #hero-msg h1 {
     text-align: center;
