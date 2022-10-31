@@ -152,7 +152,7 @@ footer a:hoover {
     width: 80px;
 }
 #hero-image {
-    width: 100%;
+    width: 100% !important;
 }
 #logo_link {
     padding: 5px;
