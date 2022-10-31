@@ -87,6 +87,7 @@ nav a:hover {
 }
 #backround {
     background-color: #283618;
+    display: none;
 }
 .msg {
     background-color: #283618;
@@ -242,6 +243,10 @@ nav {
     grid-column: 6/10;
     grid-row: 6/7;
 }
+.home-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}  
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
