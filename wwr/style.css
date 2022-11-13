@@ -247,6 +247,30 @@ nav {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }  
+.port-img {
+width: 100%;
+}
+.bob-img{
+width: 100%;
+}
+.cardinal-img{
+width: 100%
+}
+.rover-card{
+    grid-column: 1/14;
+    grid-row: 2/3;
+    text-align: center;
+}
+.camper-card{
+    grid-column: 1/14;
+    grid-row: 2/3;
+    text-align: center;
+}
+.waterfall-card{
+    grid-column: 1/14;
+    grid-row: 2/3;
+    text-align: center;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
