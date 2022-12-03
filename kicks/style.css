@@ -282,6 +282,21 @@ width: 100%
     grid-row: 2/3;
     text-align: center;
 }
+.shipping-card{
+    grid-column: 1/14;
+    grid-row: 2/3;
+    text-align: center;
+}
+.legit-card{
+    grid-column: 1/14;
+    grid-row: 2/3;
+    text-align: center;
+}
+.customer-card{
+    grid-column: 1/14;
+    grid-row: 2/3;
+    text-align: center;
+}
 form {
     /* Center the form on the page */
     margin: 0 auto;
