@@ -279,6 +279,7 @@ width: 100%
     font-size: 16px;
     border: none;
     cursor: pointer;
+    text-align: center;
   }
   
   /* Dropdown button on hover & focus */
